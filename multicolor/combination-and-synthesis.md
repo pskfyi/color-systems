@@ -16,4 +16,4 @@ This arises when a multicolor entity includes novel themes which are not directl
 
 These multicolor entities expand the design space of their constituent colors. They represent shared dimensions of both colors which can be elaborated upon in monocolor entities.
 
-These work even when both colors are available. If lightning is a synthesis of Air and Fire in your world, then either a Fire mage or an Air mage should be able to cast it.
+These work even when some colors are unavailable. If lightning is a synthesis of Air and Fire in your world, then either a Fire mage or an Air mage should be able to cast it. They don't have to be an Air & Fire mage.
