@@ -28,6 +28,8 @@ It is an unfortunate cultural carryover that we Westerners associate black with 
 
 Color names echo through the rest of your design space. Even subtle distinctions in names can have meaningful ramifications. There is a world of connotative difference between Gray and Silver, or Water and Ocean.
 
+There is a special benefit to each color name starting with a different letter. It allows you to succinctly represent colors and color combinations, which is helpful in documentation, design, and development.
+
 ## Treat Colors Equally
 
 Players have favorites, and want to see their favorites get equal treatment. If you add a color to a system, you should be prepared to give it just as much love as you've given to your other colors.
